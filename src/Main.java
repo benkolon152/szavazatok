@@ -19,5 +19,9 @@ public class Main {
             szavazatok.add(new Election(fileLine));
         }
         System.out.println("2.feladat: adatok tárolva");
+        System.out.println();
+
+        System.out.println("3.feladat: " + szavazatok.size() + " polár szavazott.");
+        System.out.println();
     }
 }
