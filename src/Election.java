@@ -1,13 +1,13 @@
 import java.util.ArrayList;
 
 public class Election {
-    private ArrayList<String> szav;
+    private String szav;
 
-    public ArrayList<String> getSzav() {
+    public String getSzav() {
         return szav;
     }
 
-    public void setSzav(ArrayList<String> szav) {
+    public void setSzav(String szav) {
         this.szav = szav;
     }
 
