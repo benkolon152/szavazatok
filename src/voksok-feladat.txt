@@ -1,0 +1,53 @@
+Bindzsisztánban a korrupt pénzéhes miniszterelnök egy szép napon egy igazságszérum hatására túl őszinte volt, ezért hát ki kellett írni a választásokat. A szavazás helyszíne a Pecmeregi Öntöttvas Csavargyár. A szavazást a Független Almaevők Szövetsége segít lebonyolítani. 
+Bindzsisztán dicső népe választási autokráciában él, a szavazati joggal 40 polgár bír. 
+
+Az induló szervezetek:
+
+Firkász Dacosak Szektája: FIDASZ
+Tejivók Szövetsége: TISZ
+Magashomlokú Mangóevők: MHME
+Kilencfarkú Macskapárt: 9FM
+Legyen Bindzsisztán Újra Kicsi: LBUK
+Dolgos Kalapács Pöröly: DKP
+Fizetett Kamupárt: FKP
+Gonosz Plüss Mozgalom: GPM
+
+Lezajlott a választás, a szavazatokat a voksok.txt fájlban találod. A kiírást a minta szerint végezd el. A mintakiírás nem a valós eredményeket tartalmazza. 
++ Git verziókövetés szükséges. Repo neve: voksok-sajatneved-13a
++ Junit tesztek elvárása: code coverage >= 75%
+
+1. Készíts konzol alkalmazást Election néven!
+
+Minta kiírás:
+1. feladat: Election
+
+2. Olvasd be a voksok.txt tartalmát a programba és tárold megfelelő adatszerkezetben! Class: Election
+
+Minta kiírás:
+2. feladat: adatok tárolva
+
+3. Hányan szavaztak?
+
+Minta kiírás:
+3. feladat: 31 polgár szavazott.
+
+4. Olvass be egy induló szervezetet a rövidítésével, majd állapítsd meg, hány szavazatot kapott?
+
+Minta:
+4. feladat: Kérek egy induló szervezetet: FIDASZ
+FIDASZ 23 szavazatot kapott.
+
+5. Hány százalékos eredményt értek el az egyes szervezetek? A szavazás eredményét a százalékok szerint csökkenő sorrendben írasd ki!
+
+Minta kiírás:
+5. feladat:
+TISZ   96%
+FIDASZ 84%
+LBUK   63%
+DKP    10%
+9FM     2%
+
+Beadandó: a teljes project mappa Election-SajatNeved-13a.zip -ként.
+
+Utószó: a kedves vezető a választás eredményétől függetlenül, ismét a FIDASZ-t bízza meg kormányalakítással, mint az itt temészetes és megszokott.
+Isten áldja Bindzsisztánt!
