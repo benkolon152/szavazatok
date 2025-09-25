@@ -16,10 +16,10 @@ Lezajlott a választás, a szavazatokat a voksok.txt fájlban találod. A kiír�
 + Git verziókövetés szükséges. Repo neve: voksok-sajatneved-13a
 + Junit tesztek elvárása: code coverage >= 75%
 
-1. Készíts konzol alkalmazást Voksok néven!
+1. Készíts konzol alkalmazást Election néven!
 
 Minta kiírás:
-1. feladat: Voksok
+1. feladat: Election
 
 2. Olvasd be a voksok.txt tartalmát a programba és tárold megfelelő adatszerkezetben! Class: Election
 
@@ -47,7 +47,7 @@ LBUK   63%
 DKP    10%
 9FM     2%
 
-Beadandó: a teljes project mappa Voksok-SajatNeved-13a.zip -ként.
+Beadandó: a teljes project mappa Election-SajatNeved-13a.zip -ként.
 
 Utószó: a kedves vezető a választás eredményétől függetlenül, ismét a FIDASZ-t bízza meg kormányalakítással, mint az itt temészetes és megszokott.
 Isten áldja Bindzsisztánt!

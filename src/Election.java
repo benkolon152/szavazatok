@@ -1,9 +1,7 @@
-import java.awt.*;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
-public class Voksok {
-    ArrayList<String> szav = new ArrayList<>();
+public class Election {
+    private ArrayList<String> szav;
 
     public ArrayList<String> getSzav() {
         return szav;
@@ -11,5 +9,9 @@ public class Voksok {
 
     public void setSzav(ArrayList<String> szav) {
         this.szav = szav;
+    }
+
+    public Election(String fileLine){
+        setSzav(szav);
     }
 }
