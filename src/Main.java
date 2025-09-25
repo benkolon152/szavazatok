@@ -1,6 +1,16 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//1.feladat:
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
+
+        File fbe = new File("files/voksok.txt");
+        Scanner sbe = new Scanner(fbe);
+        while (sbe.hasNextLine()){
+            String fileLine = sbe.nextLine();
+        }
     }
 }
